@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - Entry
+ * main - Entry point
  *
- * Code prints outthe size of various types on the computer 
+ * Return: Code prints outthe size of various types on the computer 
  */
 int main(void)
 {
